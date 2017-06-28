@@ -1,0 +1,20 @@
+.tours {
+  float: left;
+  width: 15%;
+  background-color: yellow;
+  text-align: center;
+}
+
+.about {
+  float:right;
+  width: 15%;
+  text-align: center;
+  color: green;
+}
+.change {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
